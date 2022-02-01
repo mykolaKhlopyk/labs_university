@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+D:\2_course\repos\OOP_2\.metadata\.plugins\org.eclipse.jdt.core
+1671320161.index
+3015378732.index
+1865797976.index
+851528089.index
+4133040240.index
+2232360378.index
+1126638158.index
+1305178.index
+1757799790.index
+3398457612.index
+1121139751.index
